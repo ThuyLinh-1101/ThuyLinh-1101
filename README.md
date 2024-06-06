@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning UTE
   
 - 😄 Pronouns: Jenny
-- ⚡ Fun fact: eat and drink
+- ⚡ Fun fact: eating and drinking
 
 <!---
 ThuyLinh-1101/ThuyLinh-1101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
